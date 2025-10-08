@@ -1,0 +1,12 @@
+# OS/Node
+node_modules/
+dist/
+.env
+.env.*
+
+# Keys/Secrets
+authority.json
+*seed*phrase*
+*.key
+*.pem
+*.keystore

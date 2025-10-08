@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+:root { color-scheme: dark; }
+body { @apply bg-[#0A0A0F] text-white font-sans; }
